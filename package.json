@@ -1,0 +1,30 @@
+{
+    "name": "logo-maker-Assignment 10",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sschrimmer/Logo-Maker-Assignment-10.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/sschrimmer/Logo-Maker-Assignment-10/issues"
+    },
+    "homepage": "https://github.com/sschrimmer/Logo-Maker-Assignment-10#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^29.5.0"
+    }
+  }
